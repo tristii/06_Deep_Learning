@@ -1,6 +1,8 @@
 # 06_Deep_Learning
 
-Binder Badge zum starten des Jupyter Notebooks (Keras-Projekt_Musterloesung.ipynb) via myBinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tristii/06_Deep_Learning/main?labpath=Keras-Projekt_Musterloesung.ipynb)
+Binder Badge zum starten des Jupyter Notebooks (Keras-Projekt_Musterloesung.ipynb) via myBinder: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tristii/06_Deep_Learning/main?labpath=Keras_Projekt_Musterloesung.ipynb)
+
 
 In der Umgebung von mybinder können Sie das Übungsbeispiel ausführen lassen, eigene Lösungen codieren (bestehenden Code modifizieren), um das Übungsbeispiel mit dem erwartenden Ergebnis zu reproduzieren.
 
